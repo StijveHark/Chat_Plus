@@ -1,0 +1,5 @@
+name: Chatplus
+version: 1.0
+main: nl.codeermeneer.chatplus.Main
+discription: A plugin made by CodeerMeneer
+author: CodeerMeneer
